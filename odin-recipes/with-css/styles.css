@@ -1,0 +1,15 @@
+h1 {
+    color:darkblue;
+    text-align: center;
+    font-size: 55px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    text-decoration: none;
+    background-color: rgb(106, 162, 202);
+}

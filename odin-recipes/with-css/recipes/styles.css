@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#lasagna {
+    color: rgb(189, 36, 36);
+}
+
+#first {
+    background-color: rgb(200, 160, 160);
+}
+
+#tacos {
+    color: rgb(8, 127, 8);
+}
+
+#second {
+    background-color: rgb(141, 206, 141);
+}
+
+#grilledcheese {
+    color: rgb(78, 31, 8);
+}
+
+#third {
+    background-color: rgba(154, 59, 59, 0.901);
+}
+
+h2 {
+    font-weight: bold;
+}
+
